@@ -1,48 +1,68 @@
-Clinova (Smart Clinic and Queue Management Platform)
-🎓 Business Information Systems Graduation Project
+# Clinova — Smart Clinic and Queue Management Platform
 
-Clinova is a Smart Clinic and Queue Management Platform designed to help clinics manage appointments, organize patient queues, and improve daily operations.
+> 🎓 Business Information Systems Graduation Project
 
-The project aims to reduce waiting times, improve patient experience, and make clinic management more efficient.
+**Clinova** is a Smart Clinic and Queue Management Platform that helps clinics manage appointments, organize patient queues, reduce waiting times, and improve daily operations.
 
-👥 Team Members
-Name	Role
-Mohamed Galal	Team Leader
-Mahmoud Moustafa	Team Member
-Khaled Mahmoud	Team Member
-Ahmed Hamdy	Team Member
-Mahmoud Nady	Team Member
-Mira Nagy	Team Member
-🎯 Project Objectives
-Simplify appointment scheduling and management.
-Organize patient queues and track their status.
-Reduce patient waiting times.
-Improve clinic workflow and staff efficiency.
-Provide a better experience for patients and clinic staff.
-🚀 Planned Features
-Appointment Management: Book, view, and manage appointments.
-Queue Management: Organize queues and track patient positions.
-Patient Management: Maintain patient information and visit records.
-Clinic Dashboard: Help staff manage daily clinic operations.
-Reports & Analytics: Monitor appointments, waiting times, and clinic activity.
+---
 
-Features may change as the project requirements are finalized.
+## 👥 Team Members
 
-🛠️ Technologies & Tools
+| Name | Role |
+|---|---|
+| Mohamed Galal | Team Leader |
+| Mahmoud Moustafa | Team Member |
+| Khaled Mahmoud | Team Member |
+| Ahmed Hamdy | Team Member |
+| Mahmoud Nady | Team Member |
+| Mira Nagy | Team Member |
 
-The technology stack is yet to be finalized. This section will be updated once the team selects the programming languages, frameworks, and database system.
+---
 
-📋 Development Roadmap
-Requirements Analysis
-System Analysis & Design
-Database Design
-UI/UX Design
-Development
-Testing
-Documentation
-Final Presentation
-🗂️ Repository Structure
-text
+## 🎯 Project Objectives
+
+- Simplify appointment scheduling and management.
+- Organize patient queues and track their status.
+- Reduce patient waiting times.
+- Improve clinic workflow and staff efficiency.
+- Enhance the patient experience.
+
+---
+
+## 🚀 Planned Features
+
+- **Appointment Management:** Book and manage appointments.
+- **Queue Management:** Organize queues and track patient positions.
+- **Patient Management:** Manage patient information and visit records.
+- **Clinic Dashboard:** Monitor daily clinic operations.
+- **Reports & Analytics:** Track waiting times and clinic activity.
+
+> **Note:** Features may change as project requirements are finalized.
+
+---
+
+## 🛠️ Technologies & Tools
+
+The technology stack will be announced once the team finalizes the project's technical requirements.
+
+---
+
+## 📋 Development Roadmap
+
+1. Requirements Analysis
+2. System Analysis & Design
+3. Database Design
+4. UI/UX Design
+5. Development
+6. Testing
+7. Documentation
+8. Final Presentation
+
+---
+
+## 🗂️ Repository Structure
+
+```text
 .
 ├── README.md
 ├── docs/
@@ -55,9 +75,12 @@ text
 ├── database/
 ├── design/
 └── tests/
+```
 
-📌 Project Status
+---
 
-Current Stage: Planning & Requirements Analysis
+## 📌 Project Status
 
-This repository contains the research, documentation, design, and development work for Clinova. It will be updated as the project progresses.
+**Current Stage:** Planning & Requirements Analysis
+
+This repository contains the research, documentation, design, and development work for Clinova. It will be updated throughout the project lifecycle.
