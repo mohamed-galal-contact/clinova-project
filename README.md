@@ -1,4 +1,4 @@
-# Clinova — Smart Clinic and Queue Management Platform
+# Clinova (Smart Clinic and Queue Management Platform)
 
 > 🎓 Business Information Systems Graduation Project
 
