@@ -10,12 +10,12 @@
 
 | Name | Role |
 |---|---|
-| Mohamed Galal | Team Leader |
-| Mahmoud Moustafa | Team Member |
-| Khaled Mahmoud | Team Member |
-| Ahmed Hamdy | Team Member |
-| Mahmoud Nady | Team Member |
-| Mira Nagy | Team Member |
+| Mohamed Galal | Project Manager, Data Analyst, Systems Analyst |
+| Mahmoud Moustafa | Back-End Developer |
+| Khaled Mahmoud | Back-End Developer |
+| Ahmed Hamdy | Front-End Developer |
+| Mahmoud Nady | UI/UX Designer |
+| Mira Nagy | UI/UX Designer |
 
 ---
 
