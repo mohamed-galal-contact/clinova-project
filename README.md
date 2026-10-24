@@ -58,6 +58,7 @@ The technology stack will be announced once the team finalizes the project's tec
 7. Documentation
 8. Final Presentation
 
+
 ---
 
 ## 🗂️ Repository Structure
