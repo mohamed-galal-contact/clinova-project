@@ -124,7 +124,7 @@ graph TD
 
 | Category                       | Technology / Tool                     |
 | :----------------------------- | :------------------------------------ |
-| **Frontend**                   | React, JavaScript (ES6+), HTML5, CSS3 |
+| **Frontend**                   | React, JavaScript, HTML, CSS |
 | **Backend**                    | Python, FastAPI                       |
 | **Database**                   | Microsoft SQL Server                  |
 | **ORM & Database Driver**      | SQLAlchemy, `pyodbc`                  |
