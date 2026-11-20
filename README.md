@@ -79,6 +79,7 @@ Traditional clinic management relies heavily on manual, fragmented workflows, re
 8. **Role-Based Access Control (RBAC):** Granular authentication and authorization policies tailored for administrators, doctors, receptionists, and patients.
 9. **AI-Powered Assistant:** Intelligent virtual assistant capable of answering patient inquiries and assisting with appointment scheduling.
 
+
 ---
 
 ## Business Model
