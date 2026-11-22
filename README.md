@@ -10,7 +10,7 @@
 ![Methodology](https://img.shields.io/badge/Methodology-SDLC%20%7C%20Agile%20Scrum-success?style=for-the-badge)
 ![Business Model](https://img.shields.io/badge/Model-B2B%20SaaS-informational?style=for-the-badge)
 ![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Django-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 </div>
@@ -79,7 +79,6 @@ Traditional clinic management relies heavily on manual, fragmented workflows, re
 8. **Role-Based Access Control (RBAC):** Granular authentication and authorization policies tailored for administrators, doctors, receptionists, and patients.
 9. **AI-Powered Assistant:** Intelligent virtual assistant capable of answering patient inquiries and assisting with appointment scheduling.
 
-
 ---
 
 ## Business Model
@@ -97,12 +96,12 @@ Clinova implements a **Three-Layer Architecture** engineered with **multi-tenanc
 ```mermaid
 graph TD
     subgraph Presentation Layer
-        UI[React Web Application<br/>Admin, Doctor, Receptionist & Patient Portals]
+        UI[React Web Application<br/>HTML, CSS, JavaScript • Admin, Doctor, Receptionist & Patient Portals]
     end
 
     subgraph Application Layer
-        API[FastAPI Backend<br/>RESTful APIs, RBAC, Business Logic & AI Assistant]
-        ORM[SQLAlchemy ORM + pyodbc]
+        API[Python / Django Backend<br/>RESTful APIs, RBAC, Business Logic & AI Assistant]
+        ORM[Django ORM + pyodbc]
     end
 
     subgraph Data Layer
@@ -122,18 +121,22 @@ graph TD
 
 ## Technology Stack
 
-| Category                       | Technology / Tool                     |
-| :----------------------------- | :------------------------------------ |
-| **Frontend**                   | React, JavaScript, HTML, CSS |
-| **Backend**                    | Python, FastAPI                       |
-| **Database**                   | Microsoft SQL Server                  |
-| **ORM & Database Driver**      | SQLAlchemy, `pyodbc`                  |
-| **Data Analytics**             | Excel, Power BI, Python, Chart.js     |
-| **API Testing**                | Postman                               |
-| **UI/UX Design**               | Figma                                 |
-| **System Modeling & Diagrams** | diagrams.net                          |
-| **Version Control**            | Git & GitHub                          |
-| **Project Management**         | Jira                                  |
+| Category                       | Technology / Tool                 |
+| :----------------------------- | :-------------------------------- |
+| **Frontend**                   | JavaScript, HTML, CSS, React      |
+| **Backend**                    | Python, Django                    |
+| **Database**                   | Microsoft SQL Server              |
+| **Data Analytics**             | Excel, Power BI, Python, Chart.js |
+| **API Testing**                | Postman                           |
+| **Version Control**            | Git & GitHub                      |
+| **Development Environment**    | Visual Studio Code                |
+| **UI/UX Design**               | Figma                             |
+| **System Modeling & Diagrams** | diagrams.net                      |
+| **AI Integration**             | External AI API                   |
+| **QR Code**                    | Python QR code libraries          |
+| **ORM**                        | Django ORM                        |
+| **Authentication**             | JWT                               |
+| **Project Management**         | Jira                              |
 
 ---
 
@@ -183,14 +186,14 @@ The project follows the **Systems Development Life Cycle (SDLC)** integrated wit
 
 ## Team Members
 
-| Name                 | Role                          |
-| :------------------- | :---------------------------- |
-| **Mohamed Galal**    | Team Leader, Data Analyst     |
-| **Mahmoud Moustafa** | Backend Developer             |
-| **Mahmoud Nady**     | Backend Developer             |
-| **Ahmed Hamdy**      | Frontend Developer            |
-| **Mahmoud Khaled**   | UI/UX Designer                |
-| **Mira Nagy**        | UI/UX Designer                |
+| Name                 | Role                      |
+| :------------------- | :------------------------ |
+| **Mohamed Galal**    | Team Leader, Data Analyst |
+| **Mahmoud Moustafa** | Backend Developer         |
+| **Mahmoud Nady**     | Backend Developer         |
+| **Ahmed Hamdy**      | Frontend Developer        |
+| **Mahmoud Khaled**   | UI/UX Designer            |
+| **Mira Nagy**        | UI/UX Designer            |
 
 ---
 
