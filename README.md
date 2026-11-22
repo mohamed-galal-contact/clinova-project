@@ -185,7 +185,7 @@ The project follows the **Systems Development Life Cycle (SDLC)** integrated wit
 
 | Name                 | Role                          |
 | :------------------- | :---------------------------- |
-| **Mohamed Galal**    | Team Leader, Business Analyst |
+| **Mohamed Galal**    | Team Leader, Data Analyst     |
 | **Mahmoud Moustafa** | Backend Developer             |
 | **Mahmoud Nady**     | Backend Developer             |
 | **Ahmed Hamdy**      | Frontend Developer            |
