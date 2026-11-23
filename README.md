@@ -7,7 +7,7 @@
 **Smarter Clinics. Better Patient Flow.**
 
 ![Status](https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge)
-![Methodology](https://img.shields.io/badge/Methodology-SDLC%20%7C%20Agile%20Scrum-success?style=for-the-badge)
+![Methodology](https://img.shields.io/badge/Methodology-Waterfall%20Development-success?style=for-the-badge)
 ![Business Model](https://img.shields.io/badge/Model-B2B%20SaaS-informational?style=for-the-badge)
 ![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Backend](https://img.shields.io/badge/Backend-Django-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -30,7 +30,7 @@
 | **Team Leader**    | Mohamed Galal             |
 | **Team Size**      | 6 Members                 |
 | **Duration**       | 14 Nov 2026 – 29 May 2027 |
-| **Methodology**    | SDLC with Agile Scrum     |
+| **Methodology**    | Waterfall Development     |
 | **Current Phase**  | `Planning`                |
 
 ---
@@ -114,7 +114,7 @@ graph TD
 ```
 
 1. **Presentation Layer:** A responsive, role-specific single-page application built with React.
-2. **Application Layer:** A high-performance Python/FastAPI backend managing RESTful endpoints, authentication, business logic, queue orchestration, and AI integrations.
+2. **Application Layer:** A Python/Django backend (with Django REST Framework) managing RESTful endpoints, authentication, business logic, queue orchestration, and AI integrations.
 3. **Data Layer:** Microsoft SQL Server providing reliable relational storage with tenant-level data isolation.
 
 ---
@@ -158,7 +158,7 @@ clinova/
 │   ├── images/               # Mockups, Screenshots, Presentation Media
 │   └── logos/                # Brand Identity & Visual Assets
 ├── src/
-│   ├── backend/              # FastAPI Application, Models, Schemas, Services
+│   ├── backend/              # Django Project, Domain Apps, Models, Serializers, Services
 │   └── frontend/             # React Application, Components, Pages, Hooks
 ├── database/
 │   ├── scripts/              # DDL/DML SQL Scripts
@@ -173,7 +173,7 @@ clinova/
 
 ## Development Methodology & Timeline
 
-The project follows the **Systems Development Life Cycle (SDLC)** integrated with **Agile Scrum** practices, structured according to _Systems Analysis and Design (5th Edition)_ by Roberta M. Roth.
+The project follows the **Systems Development Life Cycle (SDLC)** integrated with **Waterfall Development** practices.
 
 | Phase                 | Period               | Key Deliverables                                                                           |
 | :-------------------- | :------------------- | :----------------------------------------------------------------------------------------- |
@@ -189,8 +189,8 @@ The project follows the **Systems Development Life Cycle (SDLC)** integrated wit
 | Name                 | Role                      |
 | :------------------- | :------------------------ |
 | **Mohamed Galal**    | Team Leader, Data Analyst |
+| **Mahmoud Nady**     | Business Specialist       |
 | **Mahmoud Moustafa** | Backend Developer         |
-| **Mahmoud Nady**     | Backend Developer         |
 | **Ahmed Hamdy**      | Frontend Developer        |
 | **Mahmoud Khaled**   | UI/UX Designer            |
 | **Mira Nagy**        | UI/UX Designer            |

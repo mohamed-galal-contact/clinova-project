@@ -1,4 +1,4 @@
-# Clinova System Request
+# System Request
 
 ## Project Sponsor
 
