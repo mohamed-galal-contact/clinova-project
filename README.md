@@ -6,7 +6,7 @@
 
 **Smarter Clinics. Better Patient Flow.**
 
-![Status](https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Analysis-blue?style=for-the-badge)
 ![Methodology](https://img.shields.io/badge/Methodology-Waterfall%20Development-success?style=for-the-badge)
 ![Business Model](https://img.shields.io/badge/Model-B2B%20SaaS-informational?style=for-the-badge)
 ![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -31,7 +31,7 @@
 | **Team Size**      | 6 Members                 |
 | **Duration**       | 14 Nov 2026 – 29 May 2027 |
 | **Methodology**    | Waterfall Development     |
-| **Current Phase**  | `Planning`                |
+| **Current Phase**  | `Analysis`                |
 
 ---
 
@@ -134,7 +134,7 @@ graph TD
 | **System Modeling & Diagrams** | diagrams.net                      |
 | **AI Integration**             | External AI API                   |
 | **QR Code**                    | Python QR code libraries          |
-| **ORM**                        | Django ORM                        |
+| **ORM**                        | Django ORM, pyodbc                |
 | **Authentication**             | JWT                               |
 | **Project Management**         | Jira                              |
 
